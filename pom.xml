@@ -14,9 +14,7 @@
 	<name>SpringBootRegistrationLogin</name>
 	<description>Demo registration (sign up) and Login (Sign in)</description>
 
-	<properties>
-		<java.version>11</java.version>
-	</properties>
+	
 
 	<dependencies>
 		<dependency>
